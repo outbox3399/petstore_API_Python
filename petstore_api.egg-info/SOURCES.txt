@@ -1,0 +1,6 @@
+setup.py
+petstore_api.egg-info/PKG-INFO
+petstore_api.egg-info/SOURCES.txt
+petstore_api.egg-info/dependency_links.txt
+petstore_api.egg-info/requires.txt
+petstore_api.egg-info/top_level.txt
