@@ -11,6 +11,6 @@ setup(name='petstore-api',
       install_requires=[
           "pytest==5.4.2",
           "pytest-html==2.1.1",
-          "requests==2.23.0",
+          "requests==2.31.0",
       ]
       )
